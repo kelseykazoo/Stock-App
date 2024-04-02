@@ -1,6 +1,5 @@
 import streamlit as st
 from datetime import date
-from sklearn import metrics
 
 import yfinance as yf
 from prophet import Prophet
